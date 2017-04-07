@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Maze.unity
+- path: Assets/VuforiaTut.unity
   isLoaded: 1
   isActive: 1
